@@ -24,18 +24,14 @@ Trois années de travail m'ont permis de développer :
 
 <h2> Informations sur l’entreprise </h2>
 
-- Site web
-http://www.pronet.com
-- Siège social
-Vénissieux
+- <b> Site web :</b> http://www.pronet.com
+  
+- <b> Siège social :</b> Nice
 
-- Année de création
-Mars 2012
+- <b> Année de création : </b>Mars 2012
 
-- Type d’entreprise
-Auto entreprise
+- <b> Type d’entreprise : </b>Auto entreprise
 
-- Spécialisations
-Hygiène et propreté,  Apporteur de solution, Gestion de nuisance environnementale et Entretien / Nettoyage
+- <b> Spécialisations : </b> Hygiène et propreté,  Apporteur de solution, Gestion de nuisance environnementale et Entretien / Nettoyage
 
 </p>
