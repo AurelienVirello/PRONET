@@ -8,7 +8,7 @@ Expert en hygiène et propreté, PRO'NET a su développer son savoir-faire par s
 
 Dans une démarche d'amélioration continue, PRO'NET ne cesse d’innover pour répondre aux besoins évolutifs de ses partenaires en travaillant main dans la main avec nos clients.
 
-" Vos problématiques me pousse à créer des solutions sur-mesure et adaptée à vos besoins. Travailler en colobaration est la clef d'un service responsable et réactif, vous apporter des solutions afin de vous concentrer sur votre cœur d'activité, tel est mon métier",<i> Anthony </i>
+" Vos problématiques me pousse à créer des solutions sur-mesure et adaptée à vos besoins. Travailler en colobaration est la clef d'un service responsable et réactif, vous apporter des solutions afin de vous concentrer sur votre cœur d'activité, tel est mon métier",<i> - Anthony </i>
 
 <h2> Historique </h2>
 
@@ -23,8 +23,9 @@ Trois années de travail m'ont permis de développer :
 - De nouvelles expertises comme la remise en état de locaux après sinistre
 
 <h2> Informations sur l’entreprise </h2>
+
 Site web
-http://www.6emesens-globalservices.fr
+http://www.pronet.com
 Siège social
 Vénissieux
 
