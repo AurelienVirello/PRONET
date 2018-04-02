@@ -18,28 +18,24 @@ Trois années de travail m'ont permis de développer :
 
 - Le nombre de clients qui  m'accordent leur confiance sur mon expertise métier mais aussi sur des expertises nouvelles que je développe,
 
-- Le nombre de missions auprès de professionnels du bâtiment, de collectivités, régies immobilières, industriels, commerces, …
+- Le nombre de missions auprès de professionnels du bâtiment, de collectivités, régies immobilières,copropriétés, industriels, commerces, …
 
 - De nouvelles expertises comme la remise en état de locaux après sinistre
 
 <h2> Informations sur l’entreprise </h2>
 
-Site web
+- Site web
 http://www.pronet.com
-Siège social
+- Siège social
 Vénissieux
 
-Année de création
-2008
+- Année de création
+Mars 2012
 
-Type d’entreprise
-Société à responsabilité limitée (SRL)
+- Type d’entreprise
+Auto entreprise
 
-Taille de l’entreprise
-11 à 50 employés
-
-Spécialisations
-Hygiène et propreté, Multiservices / Logistique chantier / Apporteur de solution, La Gestion de nuisance environnementale et Entretien / Nettoyage
-<p align="justify">
+- Spécialisations
+Hygiène et propreté,  Apporteur de solution, Gestion de nuisance environnementale et Entretien / Nettoyage
 
 </p>
