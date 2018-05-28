@@ -24,7 +24,7 @@ Trois années de travail m'ont permis de développer :
 
 <h2> Informations sur l’entreprise </h2>
 
-- <b> Site web :</b> http://www.pronet.com
+- <b> Site web :</b> 
   
 - <b> Siège social :</b> Nice
 
